@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+temp_chunk.webm
+temp_audio.wav
+subtitles.srt
+.DS_Store

@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+
+  "name": "AI Subtitle Extension",
+
+  "version": "2.0",
+
+  "description": "Live AI Subtitle Generator",
+
+  "action": {
+    "default_popup": "popup.html"
+  },
+
+  "permissions": [
+    "activeTab",
+    "tabCapture"
+  ]
+}
